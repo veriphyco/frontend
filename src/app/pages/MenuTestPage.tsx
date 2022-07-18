@@ -105,7 +105,7 @@ const MenuTestPage: FC = () => {
                                 <SVG src={toAbsoluteUrl('/media/logos/logo-compact.svg')} />
                               </span>
                             </span>
-                            <span className='menu-title'>Profile -</span>
+                            <span className='menu-title'>Profile --</span>
                             <span className='menu-arrow'></span>
                           </span>
                           <div className='menu-sub menu-sub-accordion menu-sub-lg-dropdown menu-active-bg py-4 w-100 w-lg-225px'>
