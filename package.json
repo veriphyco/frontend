@@ -87,6 +87,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "ec2-dev": "CI=true;export CI; react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
